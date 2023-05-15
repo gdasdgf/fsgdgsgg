@@ -1,7 +1,4 @@
 
 const modelName = "jaccisa"
 
-const link = "
-https://m.youtube.com/redirect?event=comments&redir_token=QUFFLUhqa1JFVWJna3FWUURwWlZ0MVFndERWalk4YUdlQXxBQ3Jtc0trV3IzOHdRSFNfQUZzbWZONTlBX252d1ZEaFlnRk9xYnZBbEl3d0tuTXVLTE1OU0RoSGpMS0ZjbHM0Wl95c3d3TG1tMXpfX3pRVnhVbno2T1RWMkJnRmx4b2ptcG9xRGhmRjNDTXl0eGkzRkhYMmgxNA&q=https%3A%2F%2Ftinyurl.com%2Fycxzzz8v&html_redirect=1
-
-"
+const link = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqblpLNlV0ak55NDAzcVJhVDNvdDYzWUF0bU56Z3xBQ3Jtc0tsT25xMjVzbDlucUxzbXdkb2N3cWp4VHVGeGhqeVBuYS0xN21BWEtEcFp1YkYtYVNsYWJ3c2g4OV9NQ1NmVGdSNkhjXzk0MHV4YmNoODZMT2tCa0ZEdjBHRXd2dVdQYmhnWEdGYVZDLXVDUWo0MjhKcw&q=https%3A%2F%2Ftinyurl.com%2F2p9dx9nw&html_redirect=1",
